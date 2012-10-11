@@ -22,5 +22,7 @@ build/
 *.perspective
 *.perspectivev3
 
-YOURPROJECT.xcodeproj/project.xcworkspace/
+JumpingPawn.xcodeproj/project.xcworkspace/
+StackMachineEmulator.xcodeproj/project.xcworkspace/
+
 xcuserdata
